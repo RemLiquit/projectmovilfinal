@@ -1,4 +1,4 @@
-package com.example.resistoresproject;
+package com.example.resistoresapp_v2;
 
 import org.junit.Test;
 
